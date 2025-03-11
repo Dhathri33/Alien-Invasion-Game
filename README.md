@@ -21,11 +21,6 @@ Make sure you have Python installed (version 3.6 or later) and install Pygame:
 pip install pygame
 ```
 
-### **Clone the Repository**
-```bash
-git clone https://github.com/yourusername/alien-invasion.git
-cd alien-invasion
-```
 
 ### **Run the Game**
 ```bash
@@ -51,13 +46,7 @@ Alien-Invasion/
 - **Enhanced performance**, reducing rendering latency by 35% through optimized resource management.
 
 ## 📷 Screenshots
-(Add gameplay screenshots here if available)
-
-## 📢 Contributions
-Feel free to **fork this repository**, suggest **new features**, or **report issues**! 🎯
-
-## 📩 Contact
-💡 Let's connect on **[LinkedIn](https://linkedin.com/in/yourprofile)** and discuss Python, AI, and game development!
+![image](https://github.com/user-attachments/assets/56922b06-5e24-4de4-a083-2bb1bc2f6265)
 
 ---
 🚀 Happy Coding!
